@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="./assets/bgithub.png" width="100%" alt="Dwirizki Banner">
+  <img src="./bgithub.png" width="100%" alt="Dwirizki Banner">
 </p>
 
 <br>
@@ -38,29 +38,21 @@
 <p align="center">
   <picture>
 
-```
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake-dark.svg"
->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake-dark.svg"
+    >
 
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
+    >
 
-<img
-  src="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
->
-```
+    <img
+      src="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    >
 
   </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <i>Keep coding. Keep learning. Keep growing. 🚀</i>
 </p>
