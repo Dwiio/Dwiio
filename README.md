@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- ========================= BANNER ======================== -->
 
 <p align="center">
   <img src="./bgithub.png" width="100%" alt="Dwirizki Banner">
@@ -6,7 +6,7 @@
 
 <br>
 
-<!-- Profile Views -->
+<!-- ========================= PROFILE VIEWS ================= -->
 
 <p align="center">
   <img
@@ -17,28 +17,34 @@
 
 <br>
 
-<!-- Contribution Snake -->
+<!-- ========================= QUICK INFO =================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## ⚡ Quick Info
 
-<p align="center">
-  <picture>
+```javascript
+const dwirizki = {
+    name: "Dwirizki",
+    username: "Dwiio",
+    role: "Informatics Student",
+    university: "Universitas Pembangunan Nasional Yogyakarta",
 
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake-dark.svg"
-    >
+    focus: "Full Stack Web Development",
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
-    >
+    interests: [
+        "Web Development",
+        "Software Engineering",
+        "System Design"
+    ],
 
-    <img
-      src="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    >
+    currentlyLearning: [
+        "Full Stack Development",
+        "Data Structures & Algorithms",
+        "Software Engineering"
+    ],
 
-  </picture>
-</p>
+    goal: "Become a skilled and impactful Software Engineer"
+};
+```
+<br> <!-- ========================= CONTRIBUTION SNAKE =================== -->
+🐍 Contribution Snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ```
