@@ -5,15 +5,6 @@
 </p>
 
 
-<!-- ========================= PROFILE VIEWS ================= -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Dwiio&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  >
-</p>
-
 <!-- ========================= QUICK INFO =================== -->
 
 ```javascript
@@ -40,5 +31,14 @@ const dwirizki = {
     goal: "Become a skilled and impactful Software Engineer"
 };
 ```
-<br> <!-- ========================= CONTRIBUTION SNAKE =================== -->
+
+<!-- ========================= PROFILE VIEWS ================= -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Dwiio&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  >
+</p>
+ <!-- ========================= CONTRIBUTION SNAKE =================== -->
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/Dwiio/Dwiio/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ```
