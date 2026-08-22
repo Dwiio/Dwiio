@@ -12,7 +12,7 @@ const dwirizki = {
     name: "Dwirizki",
     username: "Dwiio",
     role: "Informatics Student",
-    university: "Universitas Pembangunan Nasional Yogyakarta",
+    university: "Universitas Pembangunan Nasional Veteran Yogyakarta",
 
     focus: "Full Stack Web Development",
 
